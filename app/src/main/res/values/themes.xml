@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Courier" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorButtonNormal">@color/lightRed4</item>
+        <item name="colorBackgroundFloating">@color/lightRed2</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/lightRed2</item>
+        <!-- Customize your theme here. -->
+        <item name="android:navigationBarColor">@color/lightRed1</item>
+        <item name="android:windowBackground">@color/lightRed1</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:positiveButtonText">@color/white</item>
+
+        <item name="android:colorPressedHighlight">@color/lightRed3</item>
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Courier</string>
+    <string name="main_button_text">start</string>
+    <string name="main_button_clicked">hello</string>
+    <string name="company">Company</string>
+    <string name="package_type">Type</string>
+    <string name="source_address">Source</string>
+    <string name="destination_address">Destination</string>
+    <string name="price">Price</string>
+    <string name="clean">Clean</string>
+    <string name="result">Result</string>
+</resources>
